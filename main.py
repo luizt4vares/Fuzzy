@@ -12,6 +12,7 @@ logging.basicConfig(filename='data/log_base/log.txt', level=logging.INFO, format
 warnings.filterwarnings("ignore")
 
 
+
 if __name__ == "__main__":
     processando_dados()
     fuzzyMain()
