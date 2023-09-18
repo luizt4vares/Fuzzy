@@ -1,1 +1,1 @@
-# fuzzy_string
+# fuzzy_strings
